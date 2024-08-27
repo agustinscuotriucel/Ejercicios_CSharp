@@ -1,0 +1,15 @@
+/workspaces/Ejercicios_CSharp/Ejercicios/bin/Debug/net8.0/Ejercicios
+/workspaces/Ejercicios_CSharp/Ejercicios/bin/Debug/net8.0/Ejercicios.deps.json
+/workspaces/Ejercicios_CSharp/Ejercicios/bin/Debug/net8.0/Ejercicios.runtimeconfig.json
+/workspaces/Ejercicios_CSharp/Ejercicios/bin/Debug/net8.0/Ejercicios.dll
+/workspaces/Ejercicios_CSharp/Ejercicios/bin/Debug/net8.0/Ejercicios.pdb
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.AssemblyInfoInputs.cache
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.AssemblyInfo.cs
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.csproj.CoreCompileInputs.cache
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.sourcelink.json
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.dll
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/refint/Ejercicios.dll
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.pdb
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/Ejercicios.genruntimeconfig.cache
+/workspaces/Ejercicios_CSharp/Ejercicios/obj/Debug/net8.0/ref/Ejercicios.dll
